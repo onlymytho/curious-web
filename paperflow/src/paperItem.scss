@@ -1,0 +1,32 @@
+.paperItem {
+    padding: 16px;
+    padding-left: 48px;
+    display: block;
+    text-decoration: none;
+    &:hover {
+        background-color: #f1f3f6;
+        cursor: pointer;
+        // text-decoration: underline;
+        font-weight: 500;
+    }
+    & + & {
+        border-top: 1px solid #e7eaef;
+    }
+    .paperTitle {
+        font-size: 16px;
+        color: #133f7a;
+    }
+    .paperAuthor {
+        .authorList {
+            list-style: none;
+            .authorItem {
+            
+            }
+        }
+    }
+    .paperJournal {
+        .journalItem {
+
+        }
+    }
+}
