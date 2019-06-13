@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/curious-web/movieql/static/css/main.e1bde1d4.chunk.css",
+    "main.js": "/curious-web/movieql/static/js/main.c1d10117.chunk.js",
+    "main.js.map": "/curious-web/movieql/static/js/main.c1d10117.chunk.js.map",
+    "runtime~main.js": "/curious-web/movieql/static/js/runtime~main.3cbd0b79.js",
+    "runtime~main.js.map": "/curious-web/movieql/static/js/runtime~main.3cbd0b79.js.map",
+    "static/js/2.b0d4d72d.chunk.js": "/curious-web/movieql/static/js/2.b0d4d72d.chunk.js",
+    "static/js/2.b0d4d72d.chunk.js.map": "/curious-web/movieql/static/js/2.b0d4d72d.chunk.js.map",
+    "index.html": "/curious-web/movieql/index.html",
+    "precache-manifest.76868d7a96aeaa23dcbecfdc5cce0762.js": "/curious-web/movieql/precache-manifest.76868d7a96aeaa23dcbecfdc5cce0762.js",
+    "service-worker.js": "/curious-web/movieql/service-worker.js",
+    "static/css/main.e1bde1d4.chunk.css.map": "/curious-web/movieql/static/css/main.e1bde1d4.chunk.css.map"
+  }
+}
